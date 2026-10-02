@@ -1,7 +1,7 @@
 ## 🔗 Presentation & Key Links
 
 * **[📊 Google Slides Presentation](https://docs.google.com/presentation/d/1e96izGIhpdTc05RWw8WWFvKfSj6GoisbJwf8ZZwPou0/edit)**
-* **[📋 Trello Board](https://trello.com)** *(optional: add link if you want)*
+
 
 ### 🚀 What We Covered in Our Presentation:
 * **Project Overview:** Analyzing what drives audience engagement (likes and comments) on trending YouTube videos in Germany.
